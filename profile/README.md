@@ -11,3 +11,5 @@ Minecraft survival server dedicated to providing a unique experience
 <img src="https://github.com/TheCavern/.github/raw/main/pictures/Rin_Tohsaka_Reads_Java_For_Web_Portuguese.png" alt="Rin Tohsaka">
 
 <img src="https://github.com/TheCavern/.github/raw/main/pictures/Aharen_Reina_Java.png" alt="Aharen Reina">
+
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Typescript/Chito_Saving_Burning_Mastering_Typescript.png" alt="Chito Saving Burning Mastering Typescript">
